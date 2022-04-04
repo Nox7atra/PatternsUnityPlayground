@@ -5,4 +5,5 @@
 
 ## Реализованные паттерны
 
-1. Команда https://metanit.com/sharp/patterns/3.3.php
+1. Команда https://t.me/dyadichenkoga/76
+2. Декоратор https://t.me/dyadichenkoga/82
